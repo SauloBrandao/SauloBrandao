@@ -4,7 +4,7 @@
 
  - ### Tenho 20 anos, gosto de café, amo jogos de tabuleiro e, atualmente, estou cursando a graduação em Sistemas para Internet P3 na faculdade UNIESP. 👌
 
-- ### Quero ser desenvolvedor Full-Stack e atualmente procuro estou focado nos estudos 📖
+- ### Quero ser desenvolvedor Full-Stack e atualmente estou focado nos estudos 📖
 
 ### Contato / Redes Sociais 📞 :   
 
