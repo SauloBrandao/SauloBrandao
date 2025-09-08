@@ -2,7 +2,7 @@
 ### Olá! Meu nome é Saulo Pinto!✌️
 <hr>
 
- - ### Tenho 20 anos, Atualmente, estou cursando a graduação em Sistemas para Internet P3 na faculdade UNIESP. 👌
+ - ### Tenho 21 anos, Atualmente, estou cursando a graduação em Sistemas para Internet P5 na faculdade UNIESP. 👌
 
 - ### Sou desenvolvedor Full-Stack e atualmente estou focado nos estudos 📖
 
