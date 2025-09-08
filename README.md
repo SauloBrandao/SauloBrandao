@@ -49,12 +49,5 @@
      <img align="center" alt="html5" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 <br>
- <h1> Estatísticas 🔢 : </h1>
-
- ![Olausz GitHub stats](https://github-readme-stats.vercel.app/api?username=Olausz&show_icons=true&theme=cobalt)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olausz)](https://github.com/Olausz/github-readme-stats)
-
-
 
 Viciado em aprender ☕
