@@ -39,7 +39,7 @@
 
 <br>
 
-<h1></h1>
+<hr>
 
 ![SauloBrandao GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloBrandao&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
