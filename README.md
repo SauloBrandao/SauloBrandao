@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Saulo Pinto!:v:
-<hr>
+
 
  - ### Tenho 21 anos, Atualmente, estou cursando a graduação em Sistemas para Internet P5 na faculdade UNIESP. :ok_hand:
 
@@ -12,6 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-pinto-brandão-05524028a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sauloluas12/)
 
+<hr>
  <h1> Tecnologias :desktop: : </h1>
 
  ### Tecnologias que utilizo / tenho conhecimento :sunglasses: :
@@ -27,7 +28,7 @@
 </div>
 
 ### Tecnologias que estou estudando no momento :eyes: :
-<hr>
+
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -39,6 +40,5 @@
 
 ### Ferramentas que eu utilizo :seedling: :
 
-<hr>
 
 <div style="display: inline_block"><br>
