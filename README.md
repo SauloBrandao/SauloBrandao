@@ -37,4 +37,7 @@
      <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
+<br>
+
+![SauloBrandao GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloBrandao&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
