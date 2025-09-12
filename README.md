@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sauloluas12/)
 
 <hr>
- <h1> Tecnologias :desktop: : </h1>
+
 
  ### Tecnologias que utilizo / tenho conhecimento :sunglasses: :
 <div style="display: inline_block"><br>
