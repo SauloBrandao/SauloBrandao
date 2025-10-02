@@ -34,7 +34,6 @@
 ### Tecnologias que estou estudando no momento :eyes: :
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
      <img align="center" alt="html5" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
 
