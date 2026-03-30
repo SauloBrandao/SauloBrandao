@@ -24,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="mongo logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
 </div>
 
